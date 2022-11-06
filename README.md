@@ -4,7 +4,7 @@ This repository provides tutorial code for implementing machine learning algorit
 
 ## Table of Contents
 
-**1. Classic Machine Learning**
+**1. Machine Learning**
 - Linear Regression
 - Logistic Regression
 - Decision Trees
