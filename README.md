@@ -11,7 +11,7 @@ This repository provides tutorial code for implementing machine learning algorit
 - Random Forest
 
 **2. Deep Learning**
-- Feedforward Neural Network
+- Multilayer Perceptron
 - Convolutional Neural Network
 - Recurrent Neural Network
 - Transformer Neural Network
