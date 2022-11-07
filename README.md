@@ -1,14 +1,12 @@
 # Machine Learning w/ PyTorch
 
-This repository provides tutorial code for implementing machine learning algorithms 
+This repository provides notebook tutorials for implementing machine learning algorithms using PyTorch
 
 ## Table of Contents
 
 **1. Machine Learning**
 - Linear Regression
 - Logistic Regression
-- Decision Trees
-- Random Forest
 
 **2. Deep Learning**
 - Multilayer Perceptron
