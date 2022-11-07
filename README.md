@@ -1,6 +1,6 @@
 # Machine Learning 
 
-This repository provides notebook tutorials for implementing machine learning algorithms using PyTorch
+This repository provides notebook tutorials for implementing machine learning algorithms.
 
 ## Table of Contents
 
