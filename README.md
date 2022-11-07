@@ -4,16 +4,12 @@ This repository provides notebook tutorials for implementing machine learning al
 
 ## Table of Contents
 
-**1. Basic**
+**1. Basic Models**
 - [Linear Regression](https://github.com/phpfontana/machine-learning-pytorch/blob/main/machine-learning/LinearRegression.ipynb)
 - Logistic Regression
 
-**2. Neural Networks**
-- Multilayer Perceptron
-- Convolutional Neural Network
-- Recurrent Neural Network
-
-**3. Tree-Based Models**
+**2. Advanced Models**
+- Artificial Neural Network
 - Decision Tree
 - Random Forest
 - XGBoost
