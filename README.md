@@ -12,4 +12,3 @@ This repository provides notebook tutorials for implementing machine learning al
 - Multilayer Perceptron
 - Convolutional Neural Network
 - Recurrent Neural Network
-- Transformer Neural Network
