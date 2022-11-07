@@ -5,7 +5,7 @@ This repository provides notebook tutorials for implementing machine learning al
 ## Table of Contents
 
 **1. Machine Learning**
-- Linear Regression
+- [Linear Regression](https://github.com/phpfontana/machine-learning-pytorch/blob/main/machine-learning/LinearRegression.ipynb)
 - Logistic Regression
 
 **2. Deep Learning**
