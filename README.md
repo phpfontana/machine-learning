@@ -1,6 +1,6 @@
 # Machine Learning 
 
-This repository provides notebook tutorials for implementing machine learning algorithms.
+This repository provides code tutorials for implementing machine learning algorithms.
 
 ## Table of Contents
 
