@@ -37,7 +37,7 @@ This tutorial is made available under the MIT License. Feel free to use and modi
 ## References
 
 The code tutorials are heavily inspired by Andrew Ng's Machine Learning Specialization, and the following machine learning papers and books:
-- Machine Learning Specialization : https://www.coursera.org/specializations/deep-learning
+- Machine Learning Specialization : https://www.coursera.org/specializations/machine-learning-introduction
 - "An Introduction to Statistical Learning" by  Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 - "Pattern Recognition and Machine Learning" by Christopher M. Bishop.
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (https://www.deeplearningbook.org/)
